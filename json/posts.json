@@ -1,0 +1,29 @@
+{
+    "sport": [
+        {
+            "views": "201,415",
+            "img": "./media/posts/sport/01.jpg",
+            "content": "💪💪 The Official ROYAL GYM"
+        },
+        {
+            "views": "15,040",
+            "img": "./media/posts/sport/02.jpg",
+            "content": "Departures haven't affected the morale at DSM"
+        },
+        {
+            "views": "155,893",
+            "img": "./media/posts/sport/03.jpg",
+            "content": "team sports that involve, to varying degrees, kicking a ball to score a goal"
+        },
+        {
+            "views": "10,236",
+            "img": "./media/posts/sport/04.jpg",
+            "content": "the perfect shot"
+        },
+        {
+            "views": "6,635",
+            "img": "./media/posts/sport/05.jpg",
+            "content": "here we go again 💪"
+        }
+    ]
+}

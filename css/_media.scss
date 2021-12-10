@@ -1,0 +1,12 @@
+@media screen and (max-width: 640px) {
+    .page {
+        padding: 25px 10px;
+    }
+}
+
+
+@media screen and (max-width: 920x) and (min-width: 640px) {
+    .page {
+        padding: 25px 10%;
+    }
+}
