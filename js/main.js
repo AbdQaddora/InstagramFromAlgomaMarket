@@ -47,11 +47,4 @@ function postGenrator(postJson) {
             return post;
         }).then(post => { document.querySelector(".page").innerHTML = post })
         .catch(console.log("Error 2"));
-
-
-
 }
-
-// postGenrator();
-// console.log(posts);
-
